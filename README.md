@@ -11,5 +11,5 @@ REQUIREMENTS:
 <br>
 [Python](https://www.python.org/)
 Colors are currently undocumented, but if you want to help fork this repository and add them here: <br>
-0. None
+0. None<br>
 1. Max brightness white
