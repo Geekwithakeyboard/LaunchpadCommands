@@ -9,7 +9,7 @@ REQUIREMENTS:
 <br>
 [launchpad.py](https://github.com/FMMT666/launchpad.py)
 <br>
-[Python](https://www.python.org/)
+[Python](https://www.python.org/) <br>
 Colors are currently undocumented, but if you want to help fork this repository and add them here: <br>
-0. None<br>
-1. Max brightness white
+0: None<br>
+1: Max brightness white
